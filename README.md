@@ -16,4 +16,5 @@ Power BI dashboard where I analyzed employee attrition trends to derive actionab
  ✔ Attrition Count
  ✔ Attrition Rate
  ✔ Avg Salary, Age & Tenure
+
 Built using Power BI with DAX-driven calculations for accurate and dynamic metrics.
