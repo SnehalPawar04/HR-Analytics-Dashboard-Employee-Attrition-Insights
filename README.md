@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard-Employee-Attrition-Insights
 Power BI dashboard where I analyzed employee attrition trends to derive actionable HR insights that can support strategic workforce planning and retention initiatives.
+
 🔍 Key Analysis Dimensions Included:
  • Age Groups
  • Education & Education Field
@@ -9,6 +10,7 @@ Power BI dashboard where I analyzed employee attrition trends to derive actionab
  • Gender Distribution
  • Marital Status
  • Years of Service / Tenure
+
 📌 KPIs Tracked:
  ✔ Total Employees
  ✔ Attrition Count
